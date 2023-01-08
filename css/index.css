@@ -1,0 +1,38 @@
+@import url(style.css);
+
+body{
+    background-color: #943CA6;
+    color: #F2E205;
+    height: 98vh;
+    font-size: 16px;
+}
+main{
+    background-color: #030A8C;
+    background-color: #030A8C;
+    margin: auto;
+    padding: 20px;
+    height: 100vh;
+    max-width: 150vh;
+    
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+img.fundo-inicio{
+    width: 500px;
+    margin: auto;
+    display: flex;
+    padding: 10px;
+}
+article{
+    background-color: ;
+}
+a.regrinhas{
+    font-size: 16px;
+   color: #F2E205;
+}
+a.regrinhas:hover{
+    text-decoration: underline;
+    color: white;
+}

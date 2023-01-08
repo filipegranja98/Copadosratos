@@ -1,17 +1,11 @@
+
 *{
     margin: 0;
     padding: 0;
 }
-
-
-main{
-    background: url(../imagens/efootball2023.jpg) no-repeat left center;
-    background-size: cover;
-    height: 98vh;
-}
 a{
     text-decoration: none;
-    color: white;
+    color: #F2E205;
     font-size: 20px;
     transition: 0.3s;
 }
