@@ -1,17 +1,16 @@
 @import url(style.css);
-
 body{
     background-color: #943CA6;
     color: #F2E205;
     height: 98vh;
-    font-size: 16px;
+    font-size: 20px;
 }
 main{
     background-color: #030A8C;
     background-color: #030A8C;
     margin: auto;
     padding: 20px;
-    height: 100vh;
+    height: 200vh;
     max-width: 150vh;
     
 }
@@ -20,19 +19,39 @@ h1{
     font-size: 30px;
 }
 img.fundo-inicio{
-    width: 500px;
+    width: 60%;
     margin: auto;
     display: flex;
     padding: 10px;
 }
-article{
-    background-color: ;
-}
+
 a.regrinhas{
-    font-size: 16px;
+   font-size: 16px;
    color: #F2E205;
+   text-decoration: none;
 }
 a.regrinhas:hover{
     text-decoration: underline;
     color: white;
+}
+table{
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #943CA6;
+    background-color: #cfc20e;
+    color: white;
+    text-align: center;
+    border-collapse: collapse;
+    margin-top: 10px;
+    box-shadow:  0px 0px 16px 2px #a79603   ;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+}
+td{
+    padding: 20px;
+    border: 1px solid #943CA6;
+    width: 50px;
+    
 }
