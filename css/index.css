@@ -22,7 +22,7 @@ main{
     background-color: #030A8C;
     margin: auto;
     padding: 20px;
-    height: 200vh;
+    height: 225vh;
     max-width: 150vh;
     
 }
@@ -49,7 +49,7 @@ a.regrinhas:hover{
 table{
     margin: auto;
     padding: 20px;
-    
+    height: 100vh;
     background-color: #cfc20e;
     color: white;
     text-align: center;
